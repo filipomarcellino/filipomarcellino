@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filipo Marcellino</h1>
 <h3 align="center">Software Systems @ SFU. Computer Science TA at Langara College</h3>
 
-- 🔭 I’m currently working on [pikko](https://github.com/filipomarcellino/pikko)
+- 🔭 I’m currently working on [sfure](https://github.com/filipomarcellino/sfure)
 
-- 🌱 I’m currently learning **tailwind**
+- 🌱 I’m currently learning **typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
