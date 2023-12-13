@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipo Marcellino</h1>
 <h3 align="center">Software Systems @ SFU. Computer Science TA at Langara College</h3>
 
-- 🌱 I’m currently learning **scala**
+- 🌱 I’m currently learning **AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
